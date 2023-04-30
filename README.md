@@ -1,2 +1,2 @@
 # student-00-959f8916226e
-Coursera
+I am editing the README file. Adding some more details about the project description.
